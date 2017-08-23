@@ -1,0 +1,431 @@
+Audi A3 hatchback
+Audi A4L
+Audi A6L
+Audi Q3
+Audi Q5
+Audi A3 sedan
+Audi A1
+Audi A4 estate
+Audi A5 convertible
+Audi A5 coupe
+Audi A5 hatchback
+Audi A7
+Audi A8L
+Audi Q7
+Audi S5 convertible
+Audi S8
+Audi TTS coupe
+Audi TT coupe
+BWM 3 Series
+BWM X1
+BWM 5 Series
+BWM M5
+BWM 2 Series
+BWM 3 Series GT
+BWM 3 Series convertible
+BWM 3 Series estate
+BWM 3 Series coupe
+BWM 4 Series convertible
+BWM 5 Series GT
+BWM 6 Series
+BWM 7 Series
+BWM X3
+BWM X4
+BWM X5
+BWM X6
+BWM 1 Series hatchback
+Benz C Class
+Benz GLK Class
+Benz E Class
+Benz C Class AMG
+Benz G Class AMG
+Benz A Class
+Benz C Class estate
+Benz E Class convertible
+Benz E Class couple
+Benz GL Class
+Benz R Class
+Benz SLK Class
+Benz S Class
+encore
+Buick GL8 Luxury Business
+Buick GL8 Business
+Regal
+Regal GS
+Lacrosse
+Exclle
+EXCELLE  GT
+EXCELLE  XT
+Enclave
+Crosstour
+Crider
+Accord
+Jade
+Spirior
+Civic
+Honda CR-V
+Peugeot 2008
+Peugeot 207 hatchback
+Peugeot 207 sedan
+Peugeot 3008
+Peugeot 301
+Peugeot 307 hatchback
+Peugeot 307 sedan
+Peugeot 308
+Peugeot 408
+Peugeot 508
+Peugeot 207CC
+Peugeot 308SW
+Peugeot 4008
+Peugeot RCZ
+Peugeot 308CC
+BYD F0
+BYD F3R
+BYD F6
+BYD G3
+BYD L3
+BYD M6
+BYD S6
+Panamera
+Porsche 911
+Canyenne
+Cayman
+BAW E Series sedan 
+BAW E Series hatchback
+Baojun 610
+Baojun 630
+Lechi
+Besturn B50
+Besturn B90
+Besturn X80
+Besturn B70
+Great Wall C50
+Great Wall M2
+Great Wall M4
+Great Wall V80
+Wingle 5
+Xuanli
+Xuanli CROSS
+Benben
+Benben MINI
+Changan CS35
+Changan CX20
+Yidong
+Yuexiang V3
+Yuexiang V5
+Yuexiang hatchback
+Yuexiang sedan
+Zhishang XT
+Ruiping
+Zhixiang
+Benben LOVE
+Cross Polo
+Polo hatchback
+Polo sedan
+Cross Lavida
+Gran Lavida
+Lavide
+Passat
+Passat Lingyu
+Santana
+Touran
+Tiguan
+Volkswagen Eos
+Golf convertible 
+Golf estate
+Phaeton
+Beetle
+Multivan
+Magotan estate
+Scirocco
+Touareg
+Sharan
+Variant
+Tiguan abroad version
+Bora
+Golf
+Golf GTI
+Jetta
+Magotan
+Sagitar
+Volkswagen CC
+DS 5
+DS 5LS
+DS 3
+DS 4
+Lingzhi
+Jingyi
+Fengshen CROSS
+Fengshen H30
+Fengshen S30
+Fengshen A60
+Shuaike
+Fiesta sedan
+Classic Focus hatchback
+Classic Focus sedan
+S-MAX
+New Focus hatchback
+New Focus sedan
+Ecosport
+Mendeo Zhisheng
+Fiesta hatchback
+Focus ST
+Mustang
+Feixiang
+Zhiyue
+Bravo
+FIAT 500
+Qiteng M70
+Chuanqi GS5
+Haval H3
+Wrangler
+Compass
+Patriot
+Gaguar XJ
+Gaguar XF
+Seville SLS
+Cadillac XTS
+Cadillac CTS
+Cadillac ATS-L
+Cadillac SRX
+Wind Lang
+Koleos
+Latitude
+Scenic
+Landwind X8
+Landwind X5
+MINI
+MINI CLUBMAN
+MINI COUNTRYMAN
+MINI PACEMAN
+Teana
+New Sylphy
+Sylphy
+Sunshine
+Qashqai
+Livina
+Tiida
+Ma Chi
+Nissan NV200
+Nissan GT-R
+Fabia
+Octavia
+Superb
+Yeti
+Haorui
+Rapid
+Superb Derivative
+Kyron
+WeaLink X5
+i30
+ix35
+Avante
+Sonata
+Mistra
+Moinca
+Santafe
+Rena
+Verna
+Sonata 8
+Elantra Yuedong
+Rohens
+Equus
+Veloster
+Infiniti Q50
+Infiniti Q70L
+Infiniti QX50
+Infiniti QX70
+Infiniti QX80
+Infiniti G Class
+Zotye 5008
+Weizhi
+Weizhi V2
+Weizhi V5
+Xiali N5
+Chrysler 300C
+Discovery
+Range Rover
+Evoque
+Range Rover Sport
+Gallardo
+Forte
+KIA K2 sedan
+KIA K3
+KIA K3S
+KIA K5
+Sportage
+Soul
+Sportage R
+Borrego
+Shuma
+Sorento
+Kaizun
+Roewe 350
+Roewe 750
+Roewe 550
+Impreza hatchback
+Impreza sedan
+MAXUS V80xs
+c-Elysee sedan
+Elysee
+Quatre hatchback
+Quatre sedan
+Citroen C2
+Citroen C4L
+Citroen C5
+Yongyuan A380
+Toyota RAV4
+Crown
+Lcruiser
+Prado
+Prius
+Reiz
+Vios
+Huaguan
+Venza
+Alphard
+Toyota 86
+Camry
+Camry hybrid
+Yaris
+EZ
+Qoros 3
+Saboo GX5
+Haima M3
+Haima S5
+Haima S7
+Haimaqishi
+Haydo
+Premacy
+Qiubite
+Family M5
+Lusheng E70
+Geely SC7
+King Kong sedan
+Classic Imperial hatchback
+Classic Imperial sedan
+Ziyoujian
+Geely EC8
+Binyue
+Heyue RS
+Ruifeng M5
+Ruifeng S5
+Ruiying
+Tongyue
+Heyue
+Dahaishi
+Lexus CT
+Lexus ES hybrid
+Lexus GS
+Lexus GS hybrid
+Lexus GX
+Lexus IS
+Lexus IS convertible 
+Lexus LS hybrid
+Lexus RX
+Lexus RX hybrid
+Lexus ES
+Lifan 520
+Lifan 720
+Lifan 320
+Jingyue
+Atenza
+Mazda CX7
+Ruiyi
+Ruiyi coupe
+Mazda 6
+Mazda 3 abroad version
+Mazda 5
+Mazda 2
+Mazda 2 sedan
+Mazda 3
+Mazda 3 Xingcheng hatchback
+Mazda 3 Xingcheng sedan
+Mazda CX-5
+Axela sedan
+Eastar Cross
+Fulwin 2 hatchback
+Fulwin 2 sedan
+Chrey A3 hatchback
+Chrey A3 sedan
+Chrey E5
+Chrey QQ
+Chrey QQ3
+Chrey X1
+Cowin 2
+Cowin 3
+Tiggo
+Tiggo 5
+Arrizo 7
+Ruiqi G5
+smart fortwo
+Volvo C30
+Volvo S60
+Volvo V40
+Volvo V40 CrossCountry
+Volvo V60
+Volvo XC60
+Volvo XC90 abroad version
+Volvo C70
+Volvo S40
+Volvo S80L
+Volvo S60L
+Youyou
+Alto
+Cultus
+Tianyu SX4 hatchback
+Tianyu SX4 sedan
+Tianyushangyue
+Yuyan
+Kazishi
+Bei Douxing
+Linian S1
+MG3 SW
+MG5
+MG6 sedan
+MG6 hatchback
+MG7
+MG3
+Antara
+Zafira
+GTC hatchback
+Venucia R50
+Venucia D50
+Pajero
+Grandis
+Evo
+ASX abroad version
+Outlander abroad version
+Mitsubishi Fortis
+Mitsubishi Lancer EX
+SAAB D70
+Wulinghongguang
+Wulingzhiguang
+Wulingrongguang
+AVEO hatchback
+Trax
+Epica
+Cruze sedan
+Cruze hatchback
+Captiva
+Aveo
+Lova
+Malibu
+Sail hatchback
+Sail sedan
+Aveo sedan
+Camaro
+Zhonghua H330
+Zhonghua H530
+Zhonghua V5
+Zhonghua Junjie
+Zhonghua Junjie CROSS
+Zhonghua Junjie FRV
+Zhonghua Junjie FSV
+Zhonghua Junjie Wagon
+Zhonghua Zunchi
+Zhonghua H230
+Brabus S Class
+Grandtiger G3
+Grandtiger TUV
+Qijian A9

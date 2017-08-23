@@ -1,0 +1,21 @@
+PODS:
+  - VisionLab (0.1.0)
+
+DEPENDENCIES:
+  - VisionLab (from `https://github.com/cocoa-ai/VisionLab`)
+
+EXTERNAL SOURCES:
+  VisionLab:
+    :git: https://github.com/cocoa-ai/VisionLab
+
+CHECKOUT OPTIONS:
+  VisionLab:
+    :commit: 330e6baeb63246fe8e58b5c4601bac1a63a84ea4
+    :git: https://github.com/cocoa-ai/VisionLab
+
+SPEC CHECKSUMS:
+  VisionLab: 5be1c3c327a521a510d3407792f1b3103f4f7d14
+
+PODFILE CHECKSUM: 8e6ebda03575aaa9c904fce0dd8e70528c42d143
+
+COCOAPODS: 1.2.1
