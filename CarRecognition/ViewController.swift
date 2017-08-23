@@ -3,7 +3,7 @@ import VisionLab
 final class ViewController: ImageClassificationController<ClassificationService> {
   override func viewDidLoad() {
     super.viewDidLoad()
-    mainView.button.setTitle("Choose an image of a flower", for: .normal)
+    mainView.button.setTitle("Choose an image of a car", for: .normal)
     classificationService.delegate = self
   }
 }

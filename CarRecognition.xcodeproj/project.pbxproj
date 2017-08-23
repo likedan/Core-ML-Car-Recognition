@@ -7,18 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		53C979801F4D391300A7AD60 /* CarRecognition.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 53C9797F1F4D390B00A7AD60 /* CarRecognition.mlmodel */; };
+		53C979821F4D426300A7AD60 /* CarRecognition.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 53C979811F4D423800A7AD60 /* CarRecognition.mlmodel */; };
+		53C979841F4D435D00A7AD60 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 53C979831F4D435D00A7AD60 /* Default-568h@2x.png */; };
+		876236B67FB4DD7E8185B0EA /* Pods_CarRecognition.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8DBE6D8D73BC890101603D90 /* Pods_CarRecognition.framework */; };
 		D5174FCC1EFB24F0000D98EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5174FCB1EFB24F0000D98EB /* AppDelegate.swift */; };
 		D5174FCE1EFB24F0000D98EB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5174FCD1EFB24F0000D98EB /* ViewController.swift */; };
 		D5174FD31EFB24F0000D98EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5174FD21EFB24F0000D98EB /* Assets.xcassets */; };
 		D5D4DFCB1EFB400D005EBAA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5D4DFCA1EFB3FEE005EBAA6 /* LaunchScreen.storyboard */; };
 		D5D4DFCF1EFB409E005EBAA6 /* ClassificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D4DFCE1EFB409E005EBAA6 /* ClassificationService.swift */; };
-		ECBF580B52A333965ECC6F24 /* Pods_Flowers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3703C57B88824D4B25D704EB /* Pods_Flowers.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3703C57B88824D4B25D704EB /* Pods_Flowers.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Flowers.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		53C9797F1F4D390B00A7AD60 /* CarRecognition.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = CarRecognition.mlmodel; sourceTree = "<group>"; };
+		53C979811F4D423800A7AD60 /* CarRecognition.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = CarRecognition.mlmodel; path = Convert/CarRecognition.mlmodel; sourceTree = SOURCE_ROOT; };
+		53C979831F4D435D00A7AD60 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8DBE6D8D73BC890101603D90 /* Pods_CarRecognition.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CarRecognition.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9788644305B4873AD4B603C5 /* Pods-CarRecognition.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarRecognition.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CarRecognition/Pods-CarRecognition.debug.xcconfig"; sourceTree = "<group>"; };
 		D5174FC81EFB24F0000D98EB /* CarRecognition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarRecognition.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5174FCB1EFB24F0000D98EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D5174FCD1EFB24F0000D98EB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -26,8 +29,7 @@
 		D5174FD71EFB24F0000D98EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5D4DFCA1EFB3FEE005EBAA6 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D5D4DFCE1EFB409E005EBAA6 /* ClassificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassificationService.swift; sourceTree = "<group>"; };
-		E6DA519F8AD45858DBE500BA /* Pods-Flowers.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flowers.release.xcconfig"; path = "Pods/Target Support Files/Pods-Flowers/Pods-Flowers.release.xcconfig"; sourceTree = "<group>"; };
-		FE74B5238A783C89B5A97016 /* Pods-Flowers.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flowers.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Flowers/Pods-Flowers.debug.xcconfig"; sourceTree = "<group>"; };
+		E61C0BF60CD8D8C9B52B9688 /* Pods-CarRecognition.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarRecognition.release.xcconfig"; path = "Pods/Target Support Files/Pods-CarRecognition/Pods-CarRecognition.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,7 +37,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ECBF580B52A333965ECC6F24 /* Pods_Flowers.framework in Frameworks */,
+				876236B67FB4DD7E8185B0EA /* Pods_CarRecognition.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -45,8 +47,8 @@
 		AD5407ACACD07321E6520CB0 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				FE74B5238A783C89B5A97016 /* Pods-Flowers.debug.xcconfig */,
-				E6DA519F8AD45858DBE500BA /* Pods-Flowers.release.xcconfig */,
+				9788644305B4873AD4B603C5 /* Pods-CarRecognition.debug.xcconfig */,
+				E61C0BF60CD8D8C9B52B9688 /* Pods-CarRecognition.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -54,6 +56,7 @@
 		D5174FBF1EFB24F0000D98EB = {
 			isa = PBXGroup;
 			children = (
+				53C979831F4D435D00A7AD60 /* Default-568h@2x.png */,
 				D5174FCA1EFB24F0000D98EB /* CarRecognition */,
 				D5174FC91EFB24F0000D98EB /* Products */,
 				D517504C1EFB3857000D98EB /* Frameworks */,
@@ -83,7 +86,7 @@
 		D5174FDD1EFB250A000D98EB /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				53C9797F1F4D390B00A7AD60 /* CarRecognition.mlmodel */,
+				53C979811F4D423800A7AD60 /* CarRecognition.mlmodel */,
 				D5D4DFCA1EFB3FEE005EBAA6 /* LaunchScreen.storyboard */,
 				D5174FD21EFB24F0000D98EB /* Assets.xcassets */,
 				D5174FD71EFB24F0000D98EB /* Info.plist */,
@@ -94,7 +97,7 @@
 		D517504C1EFB3857000D98EB /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				3703C57B88824D4B25D704EB /* Pods_Flowers.framework */,
+				8DBE6D8D73BC890101603D90 /* Pods_CarRecognition.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -134,7 +137,7 @@
 				TargetAttributes = {
 					D5174FC71EFB24F0000D98EB = {
 						CreatedOnToolsVersion = 9.0;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -163,6 +166,7 @@
 			files = (
 				D5174FD31EFB24F0000D98EB /* Assets.xcassets in Resources */,
 				D5D4DFCB1EFB400D005EBAA6 /* LaunchScreen.storyboard in Resources */,
+				53C979841F4D435D00A7AD60 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,7 +185,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Flowers/Pods-Flowers-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CarRecognition/Pods-CarRecognition-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		D573096778DF2A473F22753C /* [CP] Check Pods Manifest.lock */ = {
@@ -211,7 +215,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Flowers/Pods-Flowers-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CarRecognition/Pods-CarRecognition-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -222,7 +226,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D5174FCE1EFB24F0000D98EB /* ViewController.swift in Sources */,
-				53C979801F4D391300A7AD60 /* CarRecognition.mlmodel in Sources */,
+				53C979821F4D426300A7AD60 /* CarRecognition.mlmodel in Sources */,
 				D5174FCC1EFB24F0000D98EB /* AppDelegate.swift in Sources */,
 				D5D4DFCF1EFB409E005EBAA6 /* ClassificationService.swift in Sources */,
 			);
@@ -340,12 +344,13 @@
 		};
 		D5174FDB1EFB24F0000D98EB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FE74B5238A783C89B5A97016 /* Pods-Flowers.debug.xcconfig */;
+			baseConfigurationReference = 9788644305B4873AD4B603C5 /* Pods-CarRecognition.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = Flowers/Resources/Info.plist;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = BW259GUV6N;
+				INFOPLIST_FILE = "$(SRCROOT)/CarRecognition/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = codes.cocoaml.Flowers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -358,12 +363,13 @@
 		};
 		D5174FDC1EFB24F0000D98EB /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E6DA519F8AD45858DBE500BA /* Pods-Flowers.release.xcconfig */;
+			baseConfigurationReference = E61C0BF60CD8D8C9B52B9688 /* Pods-CarRecognition.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = Flowers/Resources/Info.plist;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = BW259GUV6N;
+				INFOPLIST_FILE = "$(SRCROOT)/CarRecognition/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = codes.cocoaml.Flowers;
 				PRODUCT_NAME = "$(TARGET_NAME)";

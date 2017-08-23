@@ -18,7 +18,7 @@ final class ClassificationService: ClassificationServiceProtocol {
     do {
       // Flower request
       requests.append(VNCoreMLRequest(
-        model: try VNCoreMLModel(for: Oxford102().model),
+        model: try VNCoreMLModel(for: CarRecognition().model),
         completionHandler: handleClassification
       ))
     } catch {
