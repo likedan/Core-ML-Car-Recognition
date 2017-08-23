@@ -1,7 +1,7 @@
 # Core ML Car Recognition Demo
 
 iOS11 demo application for flower classification using `Vision` and `CoreML`
-frameworks.
+frameworks. More models at [Core-ML-Examples](https://github.com/likedan/Core-ML-Examples).
 
 <div align="center">
 <img src="https://github.com/likedan/Core-ML-Car-Recognition/blob/master/myoldcar.png" alt="CarRecognition" width="300" height="464" />
