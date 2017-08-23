@@ -1,16 +1,16 @@
-# Flowers Vision Demo
+# Core ML Car Recognition Demo
 
 iOS11 demo application for flower classification using `Vision` and `CoreML`
 frameworks.
 
 <div align="center">
-<img src="https://github.com/cocoa-ai/FlowersVisionDemo/blob/master/Screenshot.png" alt="FlowersVisionDemo" width="300" height="464" />
+<img src="IMG_2938.png" alt="CarRecognition" width="300" height="464" />
 </div>
 
 ## Model
 
-This demo is based on [Caffe CNNs for the Oxford 102 flower dataset](https://github.com/jimgoo/caffe-oxford102),
-which was converted to [CoreML model](https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view?usp=sharing)
+This demo is based on [The Comprehensive Cars (CompCars) dataset](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html),
+which was converted to [CoreML model](https://github.com/likedan/Core-ML-Car-Recognition/blob/master/Convert/googlenet_finetune_web_car.caffemodel)
 using [coremltools](https://pypi.python.org/pypi/coremltools) python package.
 
 ## Requirements
@@ -21,34 +21,21 @@ using [coremltools](https://pypi.python.org/pypi/coremltools) python package.
 ## Installation
 
 ```sh
-git clone https://github.com/cocoa-ai/FlowersVisionDemo.git
-cd FlowersVisionDemo
+git clone https://github.com/likedan/Core-ML-Car-Recognition.git
+cd Core-ML-Car-Recognition
 pod install
-open Flowers.xcworkspace/
+open CarRecognition.xcworkspace/
 ```
-
-Download the [CoreMl model](https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view?usp=sharing)
-and add the file to "Resources" folder in the project's directory.
 
 Build the project and run it on a simulator or a device with iOS 11.
 
-## Conversion
-
-```sh
-cd Convert
-./download.sh
-python convert.py
-```
-
 ## Author
 
-Vadym Markov, markov.vadym@gmail.com
+Kedan Li, likedan5@gmail.com
 
 ## Credits
 
-- [Classifying images in the Oxford 102 flower dataset with CNNs](http://jimgoo.com/flower-power/)
-- Photo in the demo is taken from [Flickr](https://flic.kr/p/2zjdHr) and is
-distributed under [Attribution 2.0 Generic (CC BY 2.0) license](https://creativecommons.org/licenses/by/2.0/legalcode)
+- [GoogLeNet_cars](https://gist.github.com/bogger/b90eb88e31cd745525ae)
 
 ## References
 - [Caffe Model Zoo](https://github.com/caffe2/caffe2/wiki/Model-Zoo)
