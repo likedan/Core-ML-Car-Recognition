@@ -4,7 +4,7 @@ iOS11 demo application for flower classification using `Vision` and `CoreML`
 frameworks.
 
 <div align="center">
-<img src="IMG_2938.png" alt="CarRecognition" width="300" height="464" />
+<img src="myoldcar.png" alt="CarRecognition" width="300" height="464" />
 </div>
 
 ## Model
