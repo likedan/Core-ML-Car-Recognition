@@ -36,6 +36,3 @@ Carthage
 
 # SPM
 .build/
-
-## CoreML models
-*.mlmodel
