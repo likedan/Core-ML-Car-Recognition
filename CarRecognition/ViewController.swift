@@ -11,9 +11,9 @@ final class ViewController: ImageClassificationController<ClassificationService>
 // MARK: - ClassificationServiceDelegate
 
 extension ViewController: ClassificationServiceDelegate {
-  func classificationService(_ service: ClassificationService, didDetectFlower flower: String) {
+  func classificationService(_ service: ClassificationService, didDetectCar car: String) {
     DispatchQueue.main.async { [weak mainView] in
-      mainView?.label.text = flower.capitalized
+      mainView?.label.text = car.capitalized
     }
   }
 }

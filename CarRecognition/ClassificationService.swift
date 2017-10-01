@@ -3,7 +3,7 @@ import Vision
 import VisionLab
 
 protocol ClassificationServiceDelegate: class {
-  func classificationService(_ service: ClassificationService, didDetectFlower flower: String)
+  func classificationService(_ service: ClassificationService, didDetectCar car: String)
 }
 
 /// Service used to perform gender, age and emotion classification
@@ -42,6 +42,6 @@ final class ClassificationService: ClassificationServiceProtocol {
 
   @objc private func handleClassification(request: VNRequest, error: Error?) {
     let result = extractClassificationResult(from: request, count: 3)
-    delegate?.classificationService(self, didDetectFlower: result)
+    delegate?.classificationService(self, didDetectCar: result)
   }
 }

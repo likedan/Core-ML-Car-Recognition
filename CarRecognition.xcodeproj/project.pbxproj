@@ -133,7 +133,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
 				LastUpgradeCheck = 0900;
-				ORGANIZATIONNAME = "Vadym Markov";
+				ORGANIZATIONNAME = Thywis;
 				TargetAttributes = {
 					D5174FC71EFB24F0000D98EB = {
 						CreatedOnToolsVersion = 9.0;
@@ -352,7 +352,7 @@
 				DEVELOPMENT_TEAM = BW259GUV6N;
 				INFOPLIST_FILE = "$(SRCROOT)/CarRecognition/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = codes.cocoaml.Flowers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thywis.carrecognition;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -371,7 +371,7 @@
 				DEVELOPMENT_TEAM = BW259GUV6N;
 				INFOPLIST_FILE = "$(SRCROOT)/CarRecognition/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = codes.cocoaml.Flowers;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thywis.carrecognition;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
